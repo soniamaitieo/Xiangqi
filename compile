@@ -1,0 +1,2 @@
+#! /bin/sh
+gcc -Wall xiangqi_demurat_tieo.c 
